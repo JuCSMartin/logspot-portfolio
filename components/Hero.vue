@@ -2,7 +2,7 @@
   <header class="py-12 px-4 sm:px-6 lg:px-8">
     <div class="relative mx-auto max-w-[37.5rem] pt-20 text-center pb-20">
       <div class="flex items-center justify-center space-x-3">
-        <img loading="lazy" src="/profile-picture.png" alt="Profile picture" class="h-20 w-20 rounded-full" />
+        <img loading="lazy" src="/profile-picture.png" alt="Profile picture" class="h-40 w-40 rounded-full" />
         <h1
           class="text-4xl font-extrabold tracking-tight text-slate-700 sm:text-3xl"
         >
